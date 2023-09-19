@@ -32,9 +32,8 @@ drive.mount('/content/drive')
 ```
 
 1. Run the code cell with your script. It will download the torrent, save it to your Google Drive, compress it into a zip file, and upload it to Mega Cloud.
-2. You will be prompted to log in to your Mega Cloud account. Provide your email and password when prompted.
-3. Once logged in, the script will upload the zip file to Mega Cloud and display a success message.
-4. After the upload is complete, the script will clean up by deleting the original torrent file and the zip file from your Google Drive.
+2. Once logged into Mega Cloud, the script will upload the zip file to Mega Cloud and display a success message.
+3. After the upload is complete, the script will clean up by deleting the original torrent file and the zip file from your Google Drive.
 
 ## Important Notes
 
